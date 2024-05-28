@@ -63,3 +63,5 @@ Weekly Engagement: To measure the activeness of a user. Measuring if the user fi
 Your task: Calculate the weekly engagement per device?
 Email Engagement: Users engaging with the email service.
 Your task: Calculate the email engagement metrics?
+
+Dataset
